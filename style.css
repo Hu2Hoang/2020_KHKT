@@ -1,0 +1,61 @@
+h2{
+    margin-left: 150px;
+    position :relative;
+    display :inline-block;
+    color:#2196f3;
+    text-transform :uppercase;
+    letter-spacing: 4px;
+    text-decoration :none;
+    over-flow:hidden;
+    transition:0.2s;
+  }
+  #be{
+    line-height:1;
+    font-family:  Garamond;
+    font-style:normal;
+    font-size:40px;
+    text-align:center;
+    color:#E7A603;
+  }
+  #temp{
+     line-height:1;
+    font-family:  Garamond;
+    font-style:normal;
+    font-size:20px;
+    text-align:center;
+    color:#5AC33A;
+  }
+  button{
+    font-size:30px;
+    border-radius: 12px;
+    background-color: white; 
+    color:  #55c9d1; 
+  }
+  button:hover{
+      background-color: #2ec6d1;
+    color: white;
+  }
+  div{
+      font-size: 30px;
+      font-family: UI-MONOSPACE;
+      font-style: normal;
+      line-height: 2.5;
+  }
+  h1{
+    margin-left: -100px;
+  }
+  body{
+    margin-left: 120px;
+   background :url('https://mewallpaper.com/thumbnail/abstract/6976-tree-winter-snow-minimal-hd-download-hd-wallpaper.jpg'); 
+  }
+  #label-container{
+     margin-left: 430px;
+     font-family:fantasy;
+     margin-top:-405px;
+  }
+  h3{
+    margin-left: 1250px;
+    margin-top :-60px
+  }
+  
+  
